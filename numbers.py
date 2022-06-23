@@ -3,7 +3,7 @@
 # print(100-50)
 # print(10 * 3)
 
-# print("=========MODULUS==============")
+# print("=========MODULO OPERATOR ==============")
 # print(10 % 3)
 # print(8 % 2)
 # print(7 % 2)

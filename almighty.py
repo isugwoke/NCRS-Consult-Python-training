@@ -12,15 +12,3 @@ x1 = (-b + d**0.5) / (2 * a)
 x2 = (-b - d**0.5) / (2 * a)
 
 print(f"The solutions are: {x1} and {x2} ")
-
-print("=========PYTHAGORAS THEOREM==================")
-
-num_str = str(a)
-
-print(type(num_str))
-
-
-
-
-
-

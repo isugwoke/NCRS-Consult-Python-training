@@ -1,7 +1,9 @@
 # print (1 > 2)
 # print(100 < 200)
 # print(2 == 2)
+
 my_name = "Man"
+
 # print((my_name=="man")) #output: False
 
 
@@ -18,7 +20,7 @@ my_name = "Man"
 # b = 10.251255232352
 # int_a = int(a)
 # print(int(b))
-# # print(str(b))
+# print(str(b))
 
 my_name = input('Enter your name:')
 my_age = input('Enter your age:')

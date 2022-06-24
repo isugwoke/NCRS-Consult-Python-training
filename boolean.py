@@ -2,6 +2,9 @@
 # print(100 < 200)
 # print(2 == 2)
 
+from __future__ import print_function
+
+
 my_name = "Man"
 
 # print((my_name=="man")) #output: False
@@ -22,6 +25,19 @@ my_name = "Man"
 # print(int(b))
 # print(str(b))
 
-my_name = input('Enter your name:')
-my_age = input('Enter your age:')
-print(f"Welcome {my_name}, your age is {my_age}")
+# User input
+# my_name = input("Enter your name: ")
+# my_birthyear = input("enter your birth year: ")
+
+# print(my_name, my_birthyear)
+
+# Sum calculator
+
+num1 = input("Enter the first number ")
+num1_int = int(num1)
+num2 = input("Enter the second Number ")
+num2_int = int(num2)
+
+sum = num1_int + num2_int
+print(sum)
+

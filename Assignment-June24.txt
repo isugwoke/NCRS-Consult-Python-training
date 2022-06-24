@@ -1,0 +1,16 @@
+Write a python script to calculate a users age given the birth year
+
+The program should have the following features:
+    1. Accept the following information from the user(in lower case):
+        a.  First name
+        b.  Middle name
+        c.  Last name
+        d.  Birth year
+
+    2. Calculate the the users current age using the birth year
+
+    3. Print a message using the users initials and calculated age
+
+    e.g: if the user entered 'mike', 'james', 'okoh' and 1979 as the First name, Middle name, Last name and birth year respectively, and the calculated age is 43, the ouput should be:
+
+    "Hello, MJ Okoh, you were born in 1979, you are currently 43 years old"

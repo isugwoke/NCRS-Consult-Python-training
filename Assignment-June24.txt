@@ -7,7 +7,7 @@ The program should have the following features:
         c.  Last name
         d.  Birth year
 
-    2. Calculate the the users current age using the birth year (formula: 2022 - birth year
+    2. Calculate the the users current age using the birth year (formula: 2022 - birth year)
 
     3. Print a message using the users initials and calculated age
 

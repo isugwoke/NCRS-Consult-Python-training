@@ -1,7 +1,5 @@
 # functions and methods
 
-from itertools import product
-
 
 def greet():
     sum = 100 + 200

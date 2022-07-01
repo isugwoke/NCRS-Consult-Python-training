@@ -2,9 +2,6 @@
 # print(100 < 200)
 # print(2 == 2)
 
-from __future__ import print_function
-
-
 my_name = "Man"
 
 # print((my_name=="man")) #output: False
